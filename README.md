@@ -19,10 +19,7 @@ Print the result.
 ### Step 7: 
 End the program.
 ## PROGRAM:
-~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
-~~~
+
 ~~~
 public class Member {
     private String name;
